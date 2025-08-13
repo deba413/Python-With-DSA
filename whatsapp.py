@@ -1,7 +1,7 @@
 import pywhatkit
 
 # Send a WhatsApp Message to a Contact at 1:30 PM
-pywhatkit.sendwhatmsg("+919907072258", "Hey sexy", 19,54 )
+pywhatkit.sendwhatmsg("+919907072258", "Hey sweety", 19,54 )
 
 # # Same as above but Closes the Tab in 2 Seconds after Sending the Message
 # pywhatkit.sendwhatmsg("+910123456789", "Hi", 13, 30, 15, True, 2)
