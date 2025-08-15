@@ -56,3 +56,4 @@ task_listbox = tk.Listbox(root, font=("Arial", 16), bd=3, relief="ridge", select
 task_listbox.pack(pady=10, padx=10, fill="both", expand=True)
 
 root.mainloop()
+ 
